@@ -15,7 +15,7 @@
         <div :class="['navbar-menu', navbarOpen && 'is-active']">
           <div class="navbar-end">
             <nuxt-link class="navbar-item is-active is-size-5 has-text-weight-semibold" to="/">
-              Home
+             My Home
             </nuxt-link>
           </div>
         </div>
